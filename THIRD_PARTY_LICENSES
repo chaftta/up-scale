@@ -1,0 +1,38 @@
+# Licenses
+
+This project incorporates several open-source software components, both directly and indirectly. The licenses for these components are listed below:
+
+## Direct Dependencies
+
+### Real-ESRGAN
+License: BSD 3-Clause License
+https://github.com/xinntao/Real-ESRGAN/blob/master/LICENSE
+
+### PyTorch
+License
+https://github.com/pytorch/pytorch/blob/master/LICENSE
+
+### torchvision
+License: BSD 3-Clause License
+https://github.com/pytorch/vision/blob/main/LICENSE
+
+### NumPy
+License
+https://numpy.org/doc/stable/license.html
+
+### basicsr
+License: Apache-2.0 License
+https://github.com/XPixelGroup/BasicSR/blob/master/LICENSE
+
+### GFPGAN
+License: Apache-2.0 License
+https://github.com/TencentARC/GFPGAN/blob/master/LICENSE
+
+### Pillow
+License: HPND License
+https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+### opencv-python
+License: MIT License
+https://github.com/opencv/opencv-python/blob/master/LICENSE.txt
+

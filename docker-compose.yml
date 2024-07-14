@@ -1,0 +1,10 @@
+services:
+  real-esrgan:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./app:/app
+      - ./input:/workspace/input
+      - ./output:/workspace/output
+    runtime: runc

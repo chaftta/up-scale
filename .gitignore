@@ -1,0 +1,9 @@
+# work files
+/input
+/output
+
+#os $ editors files
+.DS_Store
+.vs
+.idea
+
